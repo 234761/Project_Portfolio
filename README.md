@@ -2,7 +2,7 @@ Dagnachew feyisa's Project Portfolio
 This is my personal static website hosted on GitHub Pages, built using Reactjs and Bootstrap to showcase my recent projects.
 
 https://234761.github.io/Project_Portfolio/
-
+https://github.com/234761/Project_Portfolio/blob/main/Website_Image.png
 Copyright © 2023 Dagnachew Feyisa. All rights reserved.
 
 See the LICENSE file for license rights and limitations.
