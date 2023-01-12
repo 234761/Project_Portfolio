@@ -1,4 +1,4 @@
-Dagnachewbfeyisa's Project Portfolio
+Dagnachew feyisa's Project Portfolio
 This is my personal static website hosted on GitHub Pages, built using Reactjs and Bootstrap to showcase my recent projects.
 
 https://234761.github.io/Project_Portfolio/
